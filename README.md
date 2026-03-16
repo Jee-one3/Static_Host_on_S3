@@ -67,4 +67,8 @@ By hosting the website using S3 and CloudFront, businesses can deploy their webs
 
 ---
 
-## Archietectural Diagram
+## Architectural Diagram
+
+![Architectural Diagram](static_s3.png)
+
+---
