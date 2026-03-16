@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how a static website can be hosted on AWS using Amazon S3 and made accessible through a custom domain. The architecture incorporates additional AWS services such as Amazon CloudFront for content delivery and AWS Route 53 for domain name resolution. By combining these services, the website can be delivered globally with improved performance, scalability and maintaining a simple serverless hosting approach.
+This project demonstrates how a static website can be hosted on AWS using Amazon S3 and made accessible through a custom domain. The architecture incorporates additional AWS services such as Amazon CloudFront and AWS Route 53 whihc makes the website delivered globally with improved performance, scalability and maintaining a simple serverless hosting approach.
 
 ---
 
